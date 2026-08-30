@@ -1,15 +1,18 @@
-# homebrew-tj
+# homebrew-tap
 
-Homebrew tap for [`tj`](https://github.com/aladagemre/tj) — jump between tmux
-sessions, most recently used first.
+Emre Aladağ's Homebrew tap.
+
+| formula | what it is |
+|---------|------------|
+| [`tj`](https://github.com/aladagemre/tj) | Jump between tmux sessions, most recently used first |
 
 ```sh
-brew install aladagemre/tj/tj
+brew install aladagemre/tap/tj
 ```
 
-Or, if you prefer to tap first:
+Or tap first, then install by short name:
 
 ```sh
-brew tap aladagemre/tj
+brew tap aladagemre/tap
 brew install tj
 ```
