@@ -1,8 +1,8 @@
 class Tj < Formula
   desc "Jump between tmux sessions, most recently used first"
   homepage "https://github.com/aladagemre/tj"
-  url "https://github.com/aladagemre/tj/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f5470e6f2386a19ff0ff7e5c41bd193ed7a1774f78d2d1bcb726ea391a5dd443"
+  url "https://github.com/aladagemre/tj/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "6113289c982c47174d71f6cf56a589e8e542364606556c874d5d63b66a7f1eec"
   license "MIT"
   head "https://github.com/aladagemre/tj.git", branch: "main"
 
